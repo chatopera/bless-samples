@@ -1,0 +1,12 @@
+{
+  "name": "complex",
+  "version": "0.0.1",
+  "description": "testcase with pure javascript files",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "dependencies": {
+    "figlet": "^1.2.1",
+    "node-word2vec-reader": "^1.2.0"
+  }
+}

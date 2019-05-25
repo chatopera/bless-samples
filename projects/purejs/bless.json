@@ -1,0 +1,6 @@
+{
+  "dist": {
+    "sources": ["lib/**/*.js"],
+    "data": ["data/data.txt"]
+  }
+}

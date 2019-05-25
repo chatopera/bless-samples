@@ -1,0 +1,6 @@
+{
+  "dist": {
+    "sources": ["main.js", "./index.js", "lib/**/*.js"],
+    "data": ["data/**/*", "data/**/.*"]
+  }
+}
